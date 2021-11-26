@@ -1,0 +1,17 @@
+.link-hover a {
+  color: #000;
+  font-weight: 500;
+}
+.link-hover:hover a {
+  color: #f9706a;
+  transition: all 0.3s;
+}
+.font-weight-500 a {
+  font-weight: bold;
+}
+.bg-brown {
+  background-color: #f9706a;
+}
+.color-brown {
+  color: #f9706a;
+}
